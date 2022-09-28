@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isabelochoaco
 - 📚 I’m interested in learning new skills, travelling, sports
-- 💡 I’m currently learning coding and new language:french
-- 💞️ I’m looking to collaborate on projects that allow me grow in my career
+- 💡 I’m currently improvingmy coding and analytics skills 
+- 💞️ I’m looking to collaborate on projects that allow me grow in my tech career
 - 📫 How to reach me isabelochoaco@gmail.com / 👩‍💻LinkedIn: https://www.linkedin.com/in/isabel-ochoa-545645170/ 
 - 📸 instagram: isabelochoaco
 
